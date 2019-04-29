@@ -1,9 +1,8 @@
-package com.glen.myapplication
+package com.glen.myapplication.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.view.ActionMode
 
 open class BaseActivity : AppCompatActivity() {
 

@@ -1,8 +1,8 @@
-package com.glen.myapplication
+package com.glen.myapplication.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.glen.myapplication.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
